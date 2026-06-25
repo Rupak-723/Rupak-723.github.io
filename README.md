@@ -68,7 +68,7 @@ operational states and detect anomalies in wastewater treatment systems.
 ## Technical Skills
 
 Programming:
-Python, C, C++, Java
+Python, C, C++
 
 Scientific Tools:
 ChemDraw, MestReNova, Origin, Gnuplot
