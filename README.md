@@ -3,18 +3,17 @@
 BS–MS Student in Chemistry  
 Indian Institute of Science Education and Research Kolkata
 
-I am a third-year BS–MS student at IISER Kolkata interested in catalysis,
+I am a fourth-year BS–MS Chemistry major(Minor in Biology) student at IISER Kolkata interested in catalysis,
 reaction kinetics, and surface chemistry. My research explores molecular
 transformations, reaction mechanisms, and chemical reactivity.
 
-Currently, I am working on synthetic organic chemistry and data-driven
-analysis of chemical systems.
+Currently, I am working on Intermetallic systems.
 
 Email: rupak54723@gmail.com
 
 ## About Me
 
-I am a third-year BS–MS student in Chemistry at IISER Kolkata. My academic
+I am a fourth-year BS–MS student in Chemistry at IISER Kolkata. My academic
 interests lie in catalysis, reaction kinetics, and surface chemistry.
 
 During my undergraduate training, I have studied a wide range of chemistry
@@ -46,8 +45,13 @@ Transition Metal Chemistry, Spectroscopy, Thermodynamics.
 
 ## Research Projects
 
+### Electrocatalytic Reduction Reaction CO₂ using Intermetallic systems
+Supervisor: Prof. Soshi Iimura, NIMS, Japan
+
+Working on eCO₂RR in different intermetallic systems.
+
 ### Synthesis of Strained-Ring Bicyclobutane Derivatives
-Supervisor: Dr. Biplab Maji, IISER Kolkata
+Supervisor: Prof. Biplab Maji, IISER Kolkata
 
 Synthesized bicyclobutane derivatives through multi-step organic
 transformations including imine formation, reductive amination,
