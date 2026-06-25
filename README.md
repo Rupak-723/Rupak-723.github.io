@@ -30,7 +30,7 @@ computational approaches.
 **BS–MS in Chemistry**  
 Indian Institute of Science Education and Research Kolkata  
 2023 – Present  
-CGPA: 8.93 | SGPA: 9.67
+CGPA: 9.07 | SGPA: 9.71
 
 Relevant coursework:
 Quantum Chemistry, Chemical Kinetics, Physical Organic Chemistry,
